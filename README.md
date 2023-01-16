@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-Project Goal is to download the available data set 30,478 Airbnb listings in New York City. Upload the data into Tableau and build at least 5 different visualizations to learn more about the dataset. Also, look for some interesting trens and patterns, clusterring and forecasting. 
+Project Goal is to download the available data set 30,478 Airbnb listings in New York City. Upload the data into Tableau and build at least 5 different visualizations to learn more about the dataset. Also, look for some interesting trends and patterns, clusterring and forecasting. 
 Present the collected data.
 
 ## Process
@@ -13,11 +13,11 @@ From the bars above we can see that the most expensive room type is entire house
 ### 2
 From the charts above we can see the following:
 The highest number of reviews had been received by a private house/apartment in Manhattan in June 2012.  I think it do to the following reasons:
-1. Popularity of Manhattan around the world plus the summer when a lot of people take vacations and travel around the world.
+1. Popularity of Manhattan around the world plus the summer, when a lot of people take vacations and travel around the world.
 2. The location: its close to the center and all main attractions
-There are properties in Bronx and Queens that have 0 reviews. I think its because of the location and the season, mostly winter of late fall.
+There are properties in Bronx and Queens that have 0 reviews. I think its because of the location and the season, mostly winter or late fall.
 ### 3
-From the pie chart beside its easy to see that the most popular room type to rent on Airbnb is entire house or apartment. This room type has the most number of reviews, 205,714 reviews which is about 56,16%. The least popular option is a private room, which has 153,152 reviews. The less used option is shared room, with 7,441 reviews which is about 2,03%. I think it has something to do with COVID trends as well. 
+From the pie chart beside its easy to see that the most popular room type to rent on Airbnb is entire house or apartment. This room types have the most number of reviews, 205,714 reviews which is about 56,16%. The least popular option is a private room, which has 153,152 reviews. The less used option is shared room, with 7,441 reviews which is about 2,03%. I think it has something to do with COVID trends as well. 
 ### 4
 Here is a quick map with the properties that people rent out in New York. Its colored based on the neighbourhoods and Zipcodes. Also, the number of each properties available .
 ### 5
