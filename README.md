@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-Project Goal is to download the available data set 30,478 Airbnb listings in New York City. Upload the data into Tableau and build at least 5 different visualizations to learn more about the dataset. Also, look for some interesting trens and patterns, clusterring and forecasting. 
+Project Goal is to download the available data set 30,478 Airbnb listings in New York City. Upload the data into Tableau and build at least 5 different visualizations to learn more about the dataset. Also, look for some interesting trends and patterns, clusterring and forecasting. 
 Present the collected data.
 
 ## Process
