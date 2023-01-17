@@ -23,19 +23,19 @@ There are properties in Bronx and Queens that have 0 reviews. I think its becaus
 The number of available Aibnb options in NYC are below (the most popular):
 
 Manhattan: 
->>>> Entire house/apt: 10,267
->>>> Private Room: 5,329
->>>> Shared Room: 437
+* Entire house/apt: 10,267
+* Private Room: 5,329
+* Shared Room: 437
 
 Brooklyn:
->>>> Entire house/apt: 5,695
->>>> Private Room: 5,724
->>>> Shared Room: 256
+* Entire house/apt: 5,695
+* Private Room: 5,724
+* Shared Room: 256
 
 Queens:
->>>> Entire house/apt: 907
->>>> Private Room: 1,249
->>>> Shared Room: 122
+* Entire house/apt: 907
+* Private Room: 1,249
+* Shared Room: 122
 
 ### Story 4
 The most popular room types to rent on Airbnb are entire house and apartment. This room types have the most number of reviews, 205,714 reviews which is about 56,16%. The least popular option is a private room, which has about 153,152 reviews. The less used option is shared room, with 7,441 reviews which is about 2,03%. I think it has something to do with COVID trends as well, where people do not feel comfortable to share rooms/apartments with others.
