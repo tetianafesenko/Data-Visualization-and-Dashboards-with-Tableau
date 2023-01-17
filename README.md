@@ -11,7 +11,7 @@ Present the collected data.
 1. Available Room types on Airbnb in New York: Entire house/apartment, private room and shared room.
 2. Airbnb data in New York is divided between 5 neighbourhoods: Bronx, Brooklyn, Manhattan, Queens, Staten Island. Each neighbourhood is assigned a different color in Tableau. 
 
->>>>>>>Key findings: The most expensive room type is entire house/apartment and its located in the Staten Island. Manhattan is the second on the list. The lowest average price for rent is for the shared room in Bronx.  
+------Key findings: The most expensive room type is entire house/apartment and its located in the Staten Island. Manhattan is the second on the list. The lowest average price for rent is for the shared room in Bronx.  
 
 ### Story 2
 The highest number of reviews had been received by a private house/apartment in Manhattan in June 2012.  I think it do to the following reasons:
